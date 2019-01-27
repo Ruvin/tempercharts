@@ -1,4 +1,4 @@
-## Laravel 5.6.x, Highcharts and Voujs App
+## Laravel 5.6.x, Highcharts and VueJS App
 
 ### What's in this repository 
 
