@@ -12,6 +12,12 @@
 <div id="app">
 
 
+
+<!-- added vue component -->
+ <vue-highchartscomponent></vue-highchartscomponent>
+
+ 
+
 <div>
  <h3> Assumptions</h3>
 <p> 
