@@ -24,7 +24,7 @@ require('./bootstrap');
  */
 
 
-
+Vue.component('vue-highchartscomponent', require('./components/ChartComponent.vue')); // Added to blade tempalte
 import HighchartsVue from 'highcharts-vue';
 //import Highcharts from 'highcharts';
 
