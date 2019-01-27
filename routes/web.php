@@ -17,5 +17,5 @@ Route::get('/', function () {
 
 
 
-
+Route::get('/get_temper_info', 'CoinController@get_Temper_onboarding_info');
 

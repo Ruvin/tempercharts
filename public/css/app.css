@@ -11445,3 +11445,100 @@ a.text-dark:focus {
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+/* Ruvin Roshan */
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin: 0 auto;
+  margin-top: 60px;
+  width: 70%;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+a {
+  color: #42b983;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.row > * {
+  padding: 0 20px;
+}
+
+.logos {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.logo-hc {
+  width: 70%;
+  height: auto;
+}
+
+.logo-vue {
+  width: 15%;
+  height: auto;
+}
+
+.button-grp {
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  outline: none;
+  background: #828ea0;
+  color: #fff;
+  font-size: 16px;
+  margin: 5px;
+  border: 0px;
+}
+
+button:hover {
+  background: #a7aeb8;
+  -webkit-transition: background 0.2s;
+  transition: background 0.2s;
+}
+
+button:active {
+  color: #757575;
+}
+
+.btnActive {
+  color: #6fcd98;
+}
+
