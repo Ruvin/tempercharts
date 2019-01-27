@@ -27,7 +27,19 @@ Step 2
 npm install
 ```
 
-Step 2
+Step 3
+
+```
+create a new database and edit .env file on the root 
+```
+
+Step 4
+
+```
+php artisan migrate
+```
+
+Step 5
 
 ```
 php artisan serve
